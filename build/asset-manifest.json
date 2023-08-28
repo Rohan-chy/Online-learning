@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9a7322e.css",
+    "main.js": "/static/js/main.bb532651.js",
+    "static/media/Learn-coding-online.jpeg": "/static/media/Learn-coding-online.c743972cc6a3b766d13e.jpeg",
+    "index.html": "/index.html",
+    "main.d9a7322e.css.map": "/static/css/main.d9a7322e.css.map",
+    "main.bb532651.js.map": "/static/js/main.bb532651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9a7322e.css",
+    "static/js/main.bb532651.js"
+  ]
+}
